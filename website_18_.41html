@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div class='container'>
+        <h1 id="heading" class='headingClass rhia class2'>this is heading element</h1>
+        <div class="child1 red" id='myfirst'>child1
+            <ul class="this" id='listele'>
+                <li class="childul" id='childele'>this </li>
+                <li class="childul">is</li>
+                <li class="childul">list</li>
+                <li class="childul">of my</li>
+                <li class="childul" id='lui'>dreams.</li>
+            </ul>
+            <img src="flowers.jpg">
+
+
+        </div>
+        <div class="child2">child2</div>
+        <div class="child3 red">child3</div>
+        <div class="child4">child4</div>
+        <form action="none.html" method="post">
+            Search this website<input type="text" name='Hello'>
+            <button id="btn">Submit form</button>
+            <!-- <input id='btn' type="button" value="submit"> -->
+        </form>
+        <a href="https://www.facebook.com">Open facebook</a>
+        <a href="https://www.google.com">Open google</a>
+        <a href="https://www.youtube.com">Open youtube</a>
+        <a href="https://www.instagram.com">Open instagram</a>
+
+    </div>
+    <div class="no"> this is a div1</div>
+    <div class="no"> this is a div2</div>
+    <div class="no"> this is a div3</div>
+    <div class="no"> this is a div4</div>
+    <h1>Students list</h1>
+    <ul id="students"></ul>
+
+</body>
+<!-- <script src='script12.js'></script> -->
+<!-- <script src='practice.js'></script> -->
+<!-- <script src="script28.js"></script> -->
+<script src="script42.js"></script>
+
+</html>
